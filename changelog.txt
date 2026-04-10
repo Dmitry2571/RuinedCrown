@@ -1,0 +1,16 @@
+Date: 10.04.2026
+feat: Add settings menu and game core (v0.0.1b) 
+
+- Added settings section to main menu
+- Implemented screen resolution switching
+- Implemented FPS value adjustment
+- Optimized and refactored code in main.py
+- Added game core module (Core class)
+
+Date: 09.04.2026
+feat: Add menu template (v0.0.1a)
+
+- Added menu template
+- Added background image
+- Implemented button layout
+- Implemented button image change on hover
