@@ -18,6 +18,7 @@ Ruined Crown is a dark fantasy Strategy / City-Builder / RPG developed using Pyg
 - **Platform:** macOS / Windows / Linux
 
 ### Project Structure
+
 RuinedCrown/ 
 ├── main.py # Entry point 
 ├── core/ 
@@ -39,7 +40,7 @@ RuinedCrown/
 - [ ] Territory capture
 
 ## 🛠 Installation
-
+```bash
 # Clone the repository
 git clone https://github.com/Dmitry2571/RuinedCrown.git
 cd RuinedCrown
